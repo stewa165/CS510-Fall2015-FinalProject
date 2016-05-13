@@ -2,9 +2,9 @@
 
 Contains the collection of files for the CS 510 Final.
 
-C-JuliaSets
-Cpp-Mandelbrot
-Datasets
-generate_csv.sh
-plot_data.py
+- `C-JuliaSets` : 
+- `Cpp-Mandelbrot` :
+- `Datasets` :
+- `generate_csv.sh` :
+- `plot_data.py` : 
 
