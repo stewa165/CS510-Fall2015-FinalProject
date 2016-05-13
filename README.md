@@ -2,5 +2,9 @@
 
 Contains the collection of files for the CS 510 Final.
 
--Insert modules used in code-
+C-JuliaSets
+Cpp-Mandelbrot
+Datasets
+generate_csv.sh
+plot_data.py
 
